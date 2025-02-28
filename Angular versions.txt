@@ -1,0 +1,85 @@
+
+History of angular version:
+
+
+1.Angular version 1.0, which is known as AngularJS, was released in 20 October, 2010 by Google
+
+2.Angular version 2.0 was released in 14 September, 2016
+
+3.Angular version 3.0 was skip. because of some active and huge development on the router section ,like router pre-load.to avoid this confusion they decided to skip and release with version 4.0.
+
+
+4.Angular 4.0 was released in 23 March, 2017
+
+5.Angular 5.0 was released in 1 Nov, 2017
+
+6.Angular 6.0 was released in 3 May, 2018
+
+7.Angular 7.0 was released in 18 Oct, 2018
+
+8.Angular 8.0 was released in 28 May, 2019
+
+9.Angular 9.0 was released in 6 Feb, 2020
+
+10.Angular 10.0 was released in 24 June, 2020
+
+11.Angular 11.0 was released in 11 Nov, 2020
+
+12.Angular 12 is released in 12 May, 2021
+
+13.Angular 13 is released in 4 Nov, 2021
+
+14.Angular 14 is released in 2 June, 2022
+
+15.Angular 15 is released in 18 November, 2022
+
+16.Angular 16 is released in 3 may, 2023
+
+17.Angular 17 is released in 8 November, 2023
+
+ 
+latest updates coming soon in angular:
+
+ 
+Version	Date
+
+v18.1	Week of 2024-07-01
+
+v18.2	Week of 2024-08-12
+
+v19.0	Week of 2024-11-13
+
+
+
+
+ANGULAR TOPICS:.
+
+1.Angular material
+2.Load component
+3.Load children
+4.Lazy loading
+5.Flow in angular
+6.How to install bootstap
+7.Angular install
+8.Service install
+9.Bootstrap install
+10.Angular two way binding 
+11.Interpolation
+12.Property binding
+13.Router & Routing
+14.NgModel
+15.component
+16.Standalone 
+17.Angular basics
+18.npx toastr install
+19.sweetalert install
+20.font awesome install
+21.Thirumoolar software contact page
+22.Popup message model with Bootstrap
+23.profile with popup bootstrap
+24.collapse dropdown bootstrap
+25.Bootstrap Inputclass,formcontrol,containers,breakpoints.
+26.Bootstrap Cards,Popovers,Pagination ,progress,Tables
+27.Tailwind CSS
+28.Bootstrap Scrollspy,
+
